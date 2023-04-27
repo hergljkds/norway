@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+# krupt (branch titular)
+#
+
+ls -1l /dev/tty2
+
+exit 0
